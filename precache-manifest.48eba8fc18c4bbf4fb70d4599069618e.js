@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/react-jianshu-1/static/js/runtime~main.bac532fe.js"
   },
   {
-    "revision": "acbed18d8c0837a5302d",
-    "url": "/react-jianshu-1/static/js/main.24a36e29.chunk.js"
+    "revision": "1b52e9c455a3cddfd539",
+    "url": "/react-jianshu-1/static/js/main.99133325.chunk.js"
   },
   {
     "revision": "abd60d14512f8b67955b",
@@ -16,11 +16,11 @@ self.__precacheManifest = [
     "url": "/react-jianshu-1/static/js/2.5d187582.chunk.js"
   },
   {
-    "revision": "acbed18d8c0837a5302d",
+    "revision": "1b52e9c455a3cddfd539",
     "url": "/react-jianshu-1/static/css/main.b44a75a1.chunk.css"
   },
   {
-    "revision": "96f75a3f3c344f3deef24b5ab7d4f130",
+    "revision": "0bfccd04f82d955c26d1b43a143fe9b5",
     "url": "/react-jianshu-1/index.html"
   }
 ];
